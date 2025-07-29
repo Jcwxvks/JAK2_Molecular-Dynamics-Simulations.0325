@@ -45,4 +45,4 @@ Run `animation.py` independently in the PyMol GUI to generate animations that fo
 
 ## License
 
-This project is open for academic and educational purposes. Please cite the original PDB file if you use this analysis in your work.
+This project is open for academic and educational purposes. Please cite the original [RCSB](https://www.rcsb.org/) PDB file if you use this analysis in your work.
